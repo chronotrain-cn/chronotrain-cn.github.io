@@ -1,0 +1,15 @@
+{
+  "chronotrains": "China Rail Isochrones",
+  "tab_title": "Chronotrains CN",
+  "tagline": "See how far you can travel by train from any station in China on this interactive map.",
+  "title": "How far can you go by train?",
+  "close": "Close panel",
+  "intro": "This map shows you how far you can travel from each train station in China within a given time.",
+  "helper": "Hover your mouse over a station to see the isochrones from that city.",
+  "assumptions": "Interchange time is assumed to be 20 minutes. Out-of-station travel speed is estimated at 9 km/h (between walking and biking). These are optimal travel times; actual journeys may differ.",
+  "maxHours": "Max hours",
+  "credits_prefix": "Inspired by ",
+  "credits_suffix": ". Data sourced from 12306 and cnrail.",
+  "opensource_prefix": "Open source on ",
+  "opensource_suffix": "."
+}
